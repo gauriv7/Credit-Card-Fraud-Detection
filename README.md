@@ -11,3 +11,5 @@ Summary of What Was Accomplished
 **Implemented Realistic Behaviors:** We restructured the dummy generator to tie fraudulent transactions to specific indicators, like high purchase amounts and late-night hours (11 PM - 4 AM).
 
 **Perfect Detection Success:** With a realistic data generation strategy, SMOTE effectively bridged the gap. Our model achieved 99.5% accuracy, a 100% recall rate on fraud detection, and successfully classified all tests with absolute confidence.
+
+<img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/eb15f1a5-5697-489c-984a-76bc45d98f24" />
